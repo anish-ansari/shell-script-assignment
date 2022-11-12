@@ -1,0 +1,11 @@
+		Welcome to Address Book
+		
+***********************MENU**************************
+
+1) Search address book
+2) Add entries
+3) Remove entries
+4) Edit entries
+5) Exit
+
+What do you want to do?
